@@ -1,5 +1,5 @@
 import React from 'react'
-import { Nav, NavLink, NavbarContainer, Span, NavLogo, NavItems, GitHubButton, ButtonContainer, MobileIcon, MobileMenu, MobileLink } from './NavbarStyledComponent'
+import { Nav, NavLink, NavbarContainer, Span, NavLogo, NavItems, GitHubButton, ButtonContainer, MobileIcon, MobileMenu, MobileLink, ResumeButton } from './NavbarStyledComponent';
 import { DiCssdeck } from 'react-icons/di';
 import { FaBars } from 'react-icons/fa';
 import { Bio } from '../../data/constants';
@@ -30,6 +30,7 @@ const Navbar = () => {
         </NavItems>
         <ButtonContainer>
           <GitHubButton href={Bio.github} target="_blank">Github Profile</GitHubButton>
+          <ResumeButton href={Bio.resume} target='display'>Check Resume</ResumeButton>
         </ButtonContainer>
         {
           isOpen &&
@@ -50,6 +51,7 @@ const Navbar = () => {
               setIsOpen(!isOpen)
             }}>Education</MobileLink>
             <GitHubButton style={{padding: '10px 16px',background: `${theme.primary}`, color: 'white',width: 'max-content'}} href={Bio.github} target="_blank">Github Profile</GitHubButton>
+            <ResumeButton style={{padding: '10px 16px',background: `${theme.primary}`, color: 'white',width: 'max-content', marginLeft: '0px'}} href={Bio.resume} target='_blank'>Check Resume</ResumeButton>
           </MobileMenu>
         }
       </NavbarContainer>
