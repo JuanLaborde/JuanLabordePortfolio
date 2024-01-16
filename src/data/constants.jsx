@@ -54,7 +54,7 @@ export const skills = [
       {
         name: "Tailwindcss",
         image:
-          "https://pbs.twimg.com/profile_images/1468993891584073729/a_op8KnL_400x400.jpg",
+          "https://media.licdn.com/dms/image/D4D07AQFcOTFFYfkotw/group-logo_image-shrink_92x92/0/1655277687631?e=1705741200&v=beta&t=OWtw82sTRI3L0DtOU0840Uy1iFqNvYpNMQn0_WnPxMQ",
       },
 
     ],
@@ -65,7 +65,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://media.licdn.com/dms/image/C5107AQFD6F03QGdH3w/group-logo_image-shrink_92x92/0/1631410856200?e=1705741200&v=beta&t=OzCfy7H2GzllcG5BPv4Ys9mE3j2foFtt76dcXH4rI9s",
       },
       {
         name: "GitHub",
@@ -75,7 +75,7 @@ export const skills = [
       {
         name: "Cloudinary",
         image:
-          "https://media.licdn.com/dms/image/D4E0BAQHWZAjYRxtfgg/company-logo_200_200/0/1688138388687?e=1704931200&v=beta&t=BWKHE5wAOy5kQIR19_hpTmiEd4_eRE5Oxw_YUU4FjuA",
+          "https://media.licdn.com/dms/image/D4E0BAQHWZAjYRxtfgg/company-logo_200_200/0/1688138388940/cloudinary_logo?e=1713398400&v=beta&t=ZchXl809TU4uTtzi3ve327maBMAxlwJiGevKa8mfvgk",
       },
       {
         name: "Visual Studio 2022",
@@ -90,7 +90,7 @@ export const skills = [
       {
         name: "Figma",
         image:
-          "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
+          "https://media.licdn.com/dms/image/C4E07AQF4UkQjGMFuuA/group-logo_image-shrink_92x92/0/1631003854096?e=1705741200&v=beta&t=Ssis3NP39O89qrWaAliDUnUi4PEvt9tzN0JcbfKT3IE",
       },
       {
         name: "C#",
@@ -108,16 +108,16 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQHNqzWMWUqV3g/company-logo_200_200/0/1677676022958?e=1704931200&v=beta&t=L3M_aQa1twLSkmoubzMBsSZyfSCf8I0xi4uMDhG5o54",
+    img: "https://media.licdn.com/dms/image/C560BAQHlV7bnFVNRmA/company-logo_200_200/0/1677682249857/sykes_logo?e=1713398400&v=beta&t=Nz9LJ6kas3t8-FExJ4M89O9FUeRcBsoJ3gXUFfOmsPc",
     role: "Technical Support",
-    company: "Sitel Group, Berlin Germany",
+    company: "Foundever, Berlin Germany",
     date: "January 2022 - May 2023",
     desc: "Direct Phone Service with the Customer Playstation Project. Handling Calls, Chats, and Emails in English and Spanish.",
 
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/D4E0BAQGTUswcRlgg9A/company-logo_200_200/0/1689352303421?e=1704931200&v=beta&t=FEgfoUOk1_lEwpMGsrgQtD0cJdI6VYVAzTc1U_1LeKs",
+    img: "https://media.licdn.com/dms/image/D4E0BAQGw7pbLd5DWIA/company-logo_200_200/0/1689881095403/accenturear_logo?e=1713398400&v=beta&t=4TZrerPWhIjurhzP2WEumvUOpQKRhSpwVvscoYydS-I",
     role: "Team Leader",
     company: "Accenture SRL, Buenos Aires Argentina",
     date: "December 2014 - December 2020",
@@ -134,7 +134,7 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "https://media.licdn.com/dms/image/D560BAQEZ6ZVjZmwiwA/company-logo_200_200/0/1692312131153?e=1704931200&v=beta&t=HCjMESYQi55iazLd9PsZq8ZwVv2vWH-41pwpMcjA7lo",
+    img: "https://media.licdn.com/dms/image/D560BAQEZ6ZVjZmwiwA/company-logo_200_200/0/1692312131432/hp_logo?e=1713398400&v=beta&t=xY3QMfWQr1n4LFAew9QTszMbRgCVwXYk7o9mEmh3yCk",
     role: "Second Level Technical Support (RDM - GSD)",
     company: "HP - Hewlett-Packard, Buenos Aires Argentina",
     date: "May 2011 - September 2014",
@@ -150,7 +150,7 @@ export const experiences = [
   },
   {
     id: 3,
-    img: "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_200_200/0/1688684715427?e=1704931200&v=beta&t=cQnJ9lCzAorij6Jf3YXPqT1hwn_BSU6STEXj90D7Mic",
+    img: "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_200_200/0/1688684715866/ibm_logo?e=1713398400&v=beta&t=xp98XfKJ0L60ay-fRGeGZFQyIC0_h27h0WcYWtN7-js",
     role: "Second Level Technical Support",
     company: "IBM SRL, Buenos Aires Argentina",
     date: "January 2010 - April 2011",
@@ -162,7 +162,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C4E0BAQEMcw7g_5Et_A/company-logo_200_200/0/1654683278845?e=1704931200&v=beta&t=EQbJZ_WVLYhrPTxnDZP_BZnmOxIDUwwT_i_xXslMQwE",
+    img: "https://media.licdn.com/dms/image/C4E0BAQEMcw7g_5Et_A/company-logo_200_200/0/1654683279384/le_wagon_logo?e=1713398400&v=beta&t=ZnDmiyg89J6zdI_CylKY7PQnNG381Qc-iOZnqV6LXCk",
     school: "Le Wagon - Bootcamp",
     date: "May 2023 - Present",
     desc: "I started this bootcamp, on the recommendation of the Agentur für Arbeit, since it is a Speak and Code program, which includes an integration course, a German language course, and full-stack web development with Ruby on Rails.",
@@ -170,7 +170,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/C4E0BAQHvAypiry8QaA/company-logo_200_200/0/1634842512403?e=1704931200&v=beta&t=y-3-7i_pzeLeD7pk48FL5U1RimHsWP4Fx9BeWJKZEi0",
+    img: "https://media.licdn.com/dms/image/C4E0BAQHvAypiry8QaA/company-logo_200_200/0/1634842513244/centro_de_e_learning_utn_frba_logo?e=1713398400&v=beta&t=QM6FnMz6IWHkaJxU6s6Y6jUsUNNU3m5Y3UTcXtP_hZA",
     school: "Technological University of Buenos Aires (UTN)",
     date: "August 2023 - October 2023",
     desc: "I started this diploma as a way to further enhance my knowledge in the field of programming. We learned various methods for conducting different types of software testing with the aim of identifying and resolving bugs in them.",
@@ -178,7 +178,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_200_200/0/1608039227697?e=1704931200&v=beta&t=u6YDRFVHEe5ALUkktYzrlUrkpoAIW5QCcZMWW4nXI3Q",
+    img: "https://media.licdn.com/dms/image/C4D0BAQElUhj0AoCXPw/company-logo_200_200/0/1640987068231/courseralearning_logo?e=1713398400&v=beta&t=TVryyC5PM74bwvGZ3WYpqAewimg_MO56Aj36PtAbevw",
     school: "Coursera Google Certification",
     date: "January 2023 - March 2023",
     desc: "I joined this course through INCO, a German institution that prepares people for various job areas. The course consisted of 6 modules, each requiring several hours to complete within 3 months, and I successfully completed it on time, earning certificates for each module.",
@@ -186,7 +186,7 @@ export const education = [
   },
   {
     id: 3,
-    img: "https://media.licdn.com/dms/image/C4E0BAQHvAypiry8QaA/company-logo_200_200/0/1634842512403?e=1704931200&v=beta&t=y-3-7i_pzeLeD7pk48FL5U1RimHsWP4Fx9BeWJKZEi0",
+    img: "https://media.licdn.com/dms/image/C4E0BAQHvAypiry8QaA/company-logo_200_200/0/1634842513244/centro_de_e_learning_utn_frba_logo?e=1713398400&v=beta&t=QM6FnMz6IWHkaJxU6s6Y6jUsUNNU3m5Y3UTcXtP_hZA",
     school: "Technological University of Buenos Aires (UTN)",
     date: "August 2022 - February 2023",
     desc: "I began this FullStack web development diploma with React with the intention of formalizing my knowledge in web development programming. I delivered a final project that included a homepage, four sections, a contact form, and a backend for news, and I received the highest grade in the course.",
@@ -298,19 +298,7 @@ export const projects = [
     github: "https://github.com/JuanLaborde/YouTubeClone",
     webapp: "https://youtubeclone-e3s0.onrender.com/",
   },
-  {
-    id: 8,
-    title: "Coming soon",
-    date: "",
-    description:
-      "",
-    image:
-      "https://media.gettyimages.com/id/1331245557/de/video/4k-coming-soon-neon-sign-stil-blinkend-animation-der-zahlenbewegung.jpg?s=640x640&k=20&c=C_utDSS2wAHdCc9D2W8go1RG6qRBvGP9piZMWoiuysU=",
-      tags: ["Python, Open CV"],
-    category: "machine learning",
-    github: "",
-    webapp: "",
-  },
+ 
 ];
 
 export const TimeLineData = [
